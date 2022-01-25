@@ -11,11 +11,11 @@ This project will use a dataset that contains the date, open, high, low, close, 
 # Tools and Libraries
 
 1. Python 3.x
-2. Pandas 1.2.x
-3. Numpy 1.14.x
-4. Matplotlib 2.2.x
-5. Scikit-Learn 0.24.x
-6. Keras 2.2.x
+2. Pandas 1.16.x
+3. Numpy 1.20.x
+4. Matplotlib 3.5.x
+5. Scikit-Learn 1.1.x
+6. Keras 2.7.x
 
 If you need to install the above libraries, you can use the following command:
 
