@@ -10,7 +10,7 @@ This project will use a dataset that contains the date, open, high, low, close, 
 
 # Tools and Libraries
 
-1. Python 3.x
+1. Python 3.9.x
 2. Pandas 1.16.x
 3. Numpy 1.20.x
 4. Matplotlib 3.5.x
